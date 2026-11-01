@@ -70,8 +70,7 @@ airbnb-clone/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd airbnb-clone
+git clone https://github.com/Devang-Ghongade/airbnb-clone.git
 ```
 
 ### 2. Install Backend Dependencies
